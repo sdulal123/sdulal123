@@ -2,7 +2,7 @@
   <img alt="sdulal123" src="https://komarev.com/ghpvc/?username=sdulal123&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<h1 align="center">🤗 Hi, Welcome to my page!</h1>
+<h1 align="center">🤗 Hello and Welcome!</h1>
 
 <p title="gif" align="center">
   <img src="https://github.com/sdulal123/sdulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
