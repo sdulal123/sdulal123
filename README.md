@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🤗 Hi, Welcome to my page!</h1>
-<h3 align="center">I'm Sushil, Frontend developer from Nepal, currently living in Germany.</h3>
+<h3 align="center">I'm Sushil, Frontend developer, currently living in Germany.</h3>
 
 <p title="gif" align="center">
   <img src="https://github.com/sdulal123/sdulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
