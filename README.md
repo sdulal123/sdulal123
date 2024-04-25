@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🤗 Hi, Welcome to my page!</h1>
-<h3 align="center">I'm Sushil, Frontend developer from 🇳🇵 Kathmandu, Nepal, currently living in 🇩🇪 Stuttgart, Germany.</h3>
+<h3 align="center">I'm Sushil, Frontend developer from Kathmandu, Nepal, currently living in Stuttgart, Germany.</h3>
 
 <p title="gif" align="center">
   <img src="https://github.com/sdulal123/sdulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
@@ -43,13 +43,16 @@
   </a>
 </p>
 
-<!-- <h3 align="center">Where to find me:</h3>
+<h3 align="center">Where to find me:</h3>
 <p align="center">
-  <a title ="LinkedIn" href="https://linkedin.com/in/sushildulal123" target="blank">
-    <img align="center" src="" alt="sushildulal123" height="30" width="40" />
-  </a>
   <a title ="Instagram" href="https://instagram.com/sdstudio420" target="blank">
-    <img align="center" src="" alt="sdstudio420" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sdstudio420" height="30" width="70" />
   </a>
-</p> -->
+  <a title ="Github" href="https://github.com/sdulal123" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" width="70" />
+  </a>
+  <a title ="LinkedIn" href="https://linkedin.com/in/sushildulal123" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sushildulal123" height="30" width="70" />
+  </a>
+</p>
 
