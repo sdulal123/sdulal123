@@ -10,7 +10,7 @@
 
 <h3 align="center">I'm Sushil, Frontend developer</h3>
 
-<h3 align="center">Where to find me:</h3>
+<h3 align="center">Find me in:</h3>
 <p align="center">
   <a title ="Instagram" href="https://instagram.com/sdstudio420" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sdstudio420" height="30" width="70"/>
