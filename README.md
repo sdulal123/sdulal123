@@ -49,8 +49,5 @@
    <a title ="Tailwind" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img height="40" width="40" alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> 
   </a>
-  <a title ="NextJS" href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img height="40" width="40" alt="Nextjs" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" /> 
-  </a>
 </p>
 
