@@ -37,9 +37,6 @@
   <a title ="React" href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img height="40" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> 
   </a>
-  <a title ="Angular" href="https://angular.io" target="_blank" rel="noreferrer">
-    <img height="40" width="40" alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg"/> 
-  </a>
   <a title ="TypeScript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img height="40" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
   </a>
