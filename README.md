@@ -28,9 +28,9 @@
   <a title ="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img height="40" width="40" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
   </a>
-  <a title ="Java" href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<!--   <a title ="Java" href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img width="40" height="40" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> 
-  </a>
+  </a> -->
   <a title ="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img height="40" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
   </a>
