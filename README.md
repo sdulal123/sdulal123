@@ -1,11 +1,11 @@
 <!-- Visit counter -->
 <p title="visitCounter" align="center"> 
-  <img alt="sdulal123" src="https://komarev.com/ghpvc/?username=sdulal123&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img alt="sudulal123" src="https://komarev.com/ghpvc/?username=sudulal123&color=brightgreen&style=plastic&label=PAGE+RELOADED"/>
 </p>
 
 <!-- Title -->
 ## 🤗 Hello and Welcome!
-<img align="right" src="https://github.com/sudulal123/sudulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
+<img align="right" src="https://github.com/sudulal123/sudulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc&hide_border=true"/>
   <h3 align="left">I'm Sushil, Frontend developer</h3>
 
 <!-- Website to generate badges: https://shields.io/ -->
@@ -21,7 +21,7 @@
 ## Languages and Tools:
 <p>
   <a href="https://github.com/sudulal123/">
-    <img width="55%" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=slateorange&show_icons=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
