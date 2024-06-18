@@ -1,50 +1,44 @@
+<!-- Visit counter -->
 <p title="visitCounter" align="center"> 
   <img alt="sdulal123" src="https://komarev.com/ghpvc/?username=sdulal123&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<p align="left">🤗 Hello and Welcome!</p>
-
-<p>
-  <img align="right" src="https://github.com/sdulal123/sdulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
+<!-- Title -->
+## 🤗 Hello and Welcome!
+<img align="right" src="https://github.com/sudulal123/sudulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
   <h3 align="left">I'm Sushil, Frontend developer</h3>
-  <h3 align="left">Languages and Tools I use 🛠👨‍💻:</h3>
-  <p align="left">
-    <a title ="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img height="40" width="40" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    </a>
-    <!-- <a title ="Java" href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img width="40" height="40" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> 
-    </a> -->
-    <a title ="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img height="40" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
-    </a>
-    <a title ="React" href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img height="40" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> 
-    </a>
-    <a title ="TypeScript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img height="40" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
-    </a>
-    <a title ="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img height="40" width="40" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> 
-    </a>
-    <a title ="CSS" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img height="40" width="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> 
-    </a>
-    <a title ="Tailwind" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-      <img height="40" width="40" alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> 
-    </a>
-  </p>
+
+<!-- Website to generate badges: https://shields.io/ -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sudulal123)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sushildulal123@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sushildulal123@outlook.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushildulal123/)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sdstudio420/) -->
+
+&nbsp;
+
+## Languages and Tools:
+<p>
+  <a href="https://github.com/sudulal123/">
+    <img width="55%" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&show_icons=true&hide_border=true" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <br />
 </p>
 
-<!-- <h3 align="center">Find me in:</h3>
-<p align="center">
-  <a title ="Instagram" href="https://instagram.com/sdstudio420" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sdstudio420" height="30" width="70"/>
-  </a>
-  <a title ="Github" href="https://github.com/sdulal123" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" width="70"/>
-  </a>
-  <a title ="LinkedIn" href="https://linkedin.com/in/sushildulal123" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sushildulal123" height="30" width="70"/>
-  </a>
-</p> -->
+<!-- This readme was created by Sushil Dulal - https://github.com/sudulal123 -->
