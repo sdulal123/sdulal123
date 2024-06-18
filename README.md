@@ -17,7 +17,7 @@
 
 &nbsp;
 
-## Languages and Tools:
+## Tools:
 <p>
   <a href="https://github.com/sudulal123/">
     <img width="55%" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=slateorange&show_icons=true" />
