@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=53D3F7&center=true&vCenter=true&random=false&width=435&lines=I+am+Sushil%2C+a+frontend+developer)](https://git.io/typing-svg)
   <!-- Use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
-  ### Tools:
+  ### 📐TOOLS🛠
   <code><img title="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img title="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img title="TypeScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
@@ -22,7 +22,7 @@
 
 &nbsp;
 
-## Stats:
+## 📊STATS📈
 <p>
   <a align="left" href="https://github.com/sudulal123/">
     <img width="50%" height="200" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=tokyonight&show_icons=true" />
