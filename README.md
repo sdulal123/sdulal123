@@ -29,7 +29,7 @@
     <img 
         height="210" 
         alt="languages graph" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=merko&hide_border=false"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=merko&hide_border=false"/>
   </a>
 </p>
 
