@@ -40,11 +40,3 @@
 </p>
 
 <!-- This readme was created by Sushil Dulal - https://github.com/sudulal123 -->
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sudulal123/sudulal123/output/snake.svg" alt="Snake animation" />
-
-###
