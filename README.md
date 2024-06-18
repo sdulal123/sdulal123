@@ -25,9 +25,9 @@
 ## Stats:
 <p>
   <a href="https://github.com/sudulal123/">
-    <img width="50%" height="210" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=tokyonight&show_icons=true" />
+    <img width="50%" height="200" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=tokyonight&show_icons=true" />
     <img 
-        height="180" 
+        height="200" 
         alt="languages graph" 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=merko&hide_border=false"/>
   </a>
