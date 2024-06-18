@@ -1,5 +1,5 @@
-<!-- Visit counter -->
-<p title="visitCounter" align="center"> 
+<!-- Page Reloaded counter -->
+<p title="pageReloaded" align="center"> 
   <img alt="sudulal123" src="https://komarev.com/ghpvc/?username=sudulal123&color=brightgreen&style=plastic&label=PAGE+RELOADED"/>
 </p>
 
@@ -9,7 +9,6 @@
   <h3 align="left">I'm Sushil, Frontend developer</h3>
 
 <!-- Website to generate badges: https://shields.io/ -->
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sudulal123)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sushildulal123@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sushildulal123@outlook.com)
@@ -24,9 +23,7 @@
     <img width="55%" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=slateorange&show_icons=true" />
   </a>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
-
+  <!-- Use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/></code>
