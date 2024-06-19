@@ -23,17 +23,22 @@
 &nbsp;
 
 ## 📊STATS📈
-<p>
-  <a align="left" href="https://github.com/sudulal123/">
-    <img width="50%" height="200" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=tokyonight&show_icons=true" />
-  </a>
-  <a align="right" href="https://github.com/sudulal123/">
+<div>
+  <a href="https://github.com/sudulal123/">
     <img 
-        height="200" 
-        alt="languages graph" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=8&theme=merko&hide_border=false"/>
+      height="200em" 
+      align="right" 
+      alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=tokyonight&show_icons=true"
+    />
   </a>
-</p>
+  <a href="https://github.com/sudulal123/">
+    <img  
+        height="200em" 
+        alt="languages graph" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=8&theme=merko&hide_border=false"
+    />
+  </a>
+</div>
 
 ## <br/>
 <!-- This readme was created by Sushil Dulal - https://github.com/sudulal123 -->
