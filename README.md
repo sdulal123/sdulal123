@@ -28,25 +28,5 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sudulal123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 </div>
 
-<!--
-<div>
-  <a href="https://github.com/sudulal123/">
-    <img 
-      width="50%"
-      align="right" 
-      height="200em" 
-      alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=tokyonight&show_icons=true"
-    />
-  </a>
-  <a href="https://github.com/sudulal123/">
-    <img  
-        height="200em" 
-        alt="languages graph" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=8&theme=merko&hide_border=false"
-    />
-  </a>
-</div>
--->
-
 ## <br/>
 <!-- This readme was created by Sushil Dulal - https://github.com/sudulal123 -->
