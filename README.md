@@ -24,8 +24,8 @@
 
 ## 📊STATS📈
 <div align="center">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudulal123&layout=compact&langs_count=10&theme=merko">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sudulal123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudulal123&layout=compact&langs_count=10&theme=merko">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sudulal123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 </div>
 
 <!--
