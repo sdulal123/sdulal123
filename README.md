@@ -26,7 +26,7 @@
 <div>
   <a href="https://github.com/sudulal123/">
     <img 
-      width="50%"
+      width="60%"
       align="right" 
       height="200em" 
       alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sudulal123&theme=tokyonight&show_icons=true"
