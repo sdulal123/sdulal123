@@ -7,12 +7,13 @@
 <!-- 
 <img align="right" src="https://github.com/sdulal123/sdulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
 -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=53D3F7&center=true&vCenter=true&random=false&width=435&lines=I+am+Sushil%2C+a+frontend+developer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=53D3F7&center=true&vCenter=true&random=false&width=435&lines=I+am+Sushil%2C+a+frontend+developer">
+</div>
  
   <!-- Use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 #### 📐TOOLS🛠
-<div align="left">
+<div align="center">
   <code><img title="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img title="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img title="TypeScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
