@@ -18,10 +18,10 @@
   <code><img title="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img title="TypeScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img title="Angular" width="40" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-  <code><img title="React" width="40" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<!--   <code><img title="React" width="40" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code> -->
   <code><img title="HTML5" width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img title="CSS" width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-  <code><img title="TailwindCSS" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<!--   <code><img title="TailwindCSS" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code> -->
 </div>
 
 #
