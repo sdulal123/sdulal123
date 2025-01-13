@@ -15,6 +15,7 @@
 #### 📐TOOLS🛠
 <div align="center">
   <code><img title="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img title="Java" width="40" height="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <code><img title="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img title="TypeScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img title="Angular" width="40" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
